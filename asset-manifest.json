@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/employee-accounting/static/css/main.a8a10f8e.css",
-    "main.js": "/employee-accounting/static/js/main.78cc68a5.js",
+    "main.js": "/employee-accounting/static/js/main.d8f729ff.js",
     "index.html": "/employee-accounting/index.html",
     "main.a8a10f8e.css.map": "/employee-accounting/static/css/main.a8a10f8e.css.map",
-    "main.78cc68a5.js.map": "/employee-accounting/static/js/main.78cc68a5.js.map"
+    "main.d8f729ff.js.map": "/employee-accounting/static/js/main.d8f729ff.js.map"
   },
   "entrypoints": [
     "static/css/main.a8a10f8e.css",
-    "static/js/main.78cc68a5.js"
+    "static/js/main.d8f729ff.js"
   ]
 }
