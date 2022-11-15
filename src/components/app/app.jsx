@@ -91,7 +91,7 @@ class App extends Component {
     this.setState(({ data }) => ({
       data: data.map(employee => {
         if (employee.name === name) {
-          return {...employee, salary: salary}
+          return {...employee, salary: salary.slice(0, -1)};
         }
         return employee
       })
